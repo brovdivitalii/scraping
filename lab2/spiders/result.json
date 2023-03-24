@@ -1,0 +1,21 @@
+[
+{"name": "Біологічний факультет", "link": "biolog@lnu.edu.ua"},
+{"name": "Географічний факультет", "link": "geography.faculty@lnu.edu.ua"},
+{"name": "Геологічний факультет", "link": "decanat.geology@ukr.net"},
+{"name": "Економічний факультет", "link": "edean@lnu.edu.ua"},
+{"name": "Факультет електроніки та комп’ютерних технологій", "link": "electronics.faculty@lnu.edu.ua"},
+{"name": "Факультет журналістики", "link": "journft@lnu.edu.ua"},
+{"name": "Факультет іноземних мов", "link": "lingua.faculty@lnu.edu.ua"},
+{"name": "Історичний факультет", "link": "clio@lnu.edu.ua"},
+{"name": "Факультет культури і мистецтв", "link": "fkultart@lnu.edu.ua"},
+{"name": "Механіко-математичний факультет", "link": "dmmf@lnu.edu.ua"},
+{"name": "Факультет міжнародних відносин", "link": "intrel.faculty@lnu.edu.ua"},
+{"name": "Факультет педагогічної освіти", "link": "pedagogy.faculty@lnu.edu.ua"},
+{"name": "Факультет прикладної математики та інформатики", "link": "ami@lnu.edu.ua"},
+{"name": "Факультет управління фінансами та бізнесу", "link": "financial.faculty@lnu.edu.ua"},
+{"name": "Фізичний факультет", "link": "physics.faculty@lnu.edu.ua"},
+{"name": "Філологічний факультет", "link": "philology.faculty@lnu.edu.ua"},
+{"name": "Філософський факультет", "link": "dfilos@lnu.edu.ua"},
+{"name": "Хімічний факультет", "link": "chemdek@lnu.edu.ua"},
+{"name": "Юридичний факультет", "link": "law.faculty@lnu.edu.ua"}
+]
